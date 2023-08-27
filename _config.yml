@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/logo.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: '53d7a3a62b.js'
 
 author:
   name: 'DOT.'
