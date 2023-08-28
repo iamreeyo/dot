@@ -5,7 +5,6 @@ url: 'https://www.dot.or.id'
 baseurl: ''
 profilepic: '/images/logo.png'
 bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
 font_awesome: '53d7a3a62b.js'
 
 author:
