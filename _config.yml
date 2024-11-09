@@ -1,14 +1,14 @@
 # Site settings
 title: DOT.
 description: 'Belajar memahami code dan IoT'
-url: 'https://www.dot.or.id'
+url: 'https://iamreeyo.github.io'
 baseurl: ''
 profilepic: '/images/logo.png'
 bkimage: '/images/bk1.jpg'
 
 author:
-  name: 'DOT.'
-  email: staff@dot.or.id
+  name: '.'
+  email: 
   mastodon: 
   twitter_username: 
 #  facebook_username: 
